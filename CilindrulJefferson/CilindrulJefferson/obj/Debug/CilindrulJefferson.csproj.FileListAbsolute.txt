@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\bin\Debug\CilindrulJefferson.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CilindrulJefferson\CilindrulJefferson\obj\Debug\CilindrulJefferson.pdb
